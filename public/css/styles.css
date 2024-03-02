@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+  }
+  
+  h1 {
+    color: red;
+  }
+  
+  p {
+    color: #666;
+  }
+  
+  img {
+    width: 100px;
+    height: auto;
+  }
+  img{
+    height: 60px;
+    width: 150px;
+  }
